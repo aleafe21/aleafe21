@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://acortar.link/iK8mp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-icon" height="20" width="20" /></a>
-<a href="+541155709773" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="whatsapp-icon" height="20" width="20"/></a>
+<a href="https://wa.link/4nw5bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="whatsapp-icon" height="20" width="20"/></a>
  <a href="mailto:aleafe21@gmail.com" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="mail-icon" height="20" width="20" /></a>
 </p>
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img sr="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -35,7 +36,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-## ⚡ My Technologies:
+
+## ⚡ My Tools:
 <div float: right;>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -60,9 +62,17 @@
 
 ## 💻 My Latest Projects:
 <div align = "center">
-<a href = "https://github.com/gdys92/task-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleafe21&repo=task-list"></a>
-<a href = "https://github.com/gdys92/GifOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleafe21&repo=GifOs"></a>
+<a href = "https://github.com/aleafe21/amazon-sagemaker-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleafe21&repo=amazon-sagemaker-examples"></a>
+<a href = "https://github.com/aleafe21/TP_Ultrasonido"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleafe21&repo=TP_Ultrasonido"></a>
 <div>
  <hr>
 
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+### 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fu
