@@ -10,9 +10,9 @@
 
 <p align="center">📱 Contact: 
 <p align="center">
-<a href="https://acortar.link/iK8mp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon" height="40" width="70" /></a>
-<a href="https://wa.link/4nw5bb" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-icon" height="40" width="70"/></a>
- <a href="mailto:aleafe21@gmail.com" target="blank"><img  align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-icon" height="40" width="70" /></a>
+<a href="https://acortar.link/iK8mp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon" height="30" width="90" /></a>
+<a href="https://wa.link/4nw5bb" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-icon" height="30" width="90"/></a>
+ <a href="mailto:aleafe21@gmail.com" target="blank"><img  align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-icon" height="30" width="90" /></a>
 </p>
 </p>
 
