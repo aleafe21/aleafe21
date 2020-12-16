@@ -66,4 +66,3 @@
 <a href = "https://github.com/aleafe21/TP_Ultrasonido"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aleafe21&repo=TP_Ultrasonido"></a>
 <div>
  <hr>
-
