@@ -11,9 +11,7 @@
 
 <p align="center">
 <a href="https://acortar.link/iK8mp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-icon" height="20" width="20" /></a>
-  <a href="https://acortar.link/iK8mp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon" height="20" width="20" /></a>
 <a href="+541155709773" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="whatsapp-icon" height="20" width="20"/></a>
- <a href="+541155709773" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-icon" height="20" width="20" /></a>
  <a href="mailto:aleafe21@gmail.com" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="mail-icon" height="20" width="20" /></a>
 </p>
 
@@ -38,7 +36,7 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
-## ⚡ My Tools:
+## ⚡ My Technologies:
 <div float: right;>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
