@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-</div>
 ## ⚡ My Technologies:
 <div float: right;>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -48,6 +47,8 @@
 <img src="https://img.shields.io/badge/-ETL-blue">
 
 </div>
+</div>
+
 
 
 
